@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dp_5_in_sw320dp">5dp</dimen>
+    <dimen name="dp_10_in_sw320dp">10dp</dimen>
+    <dimen name="dp_20_in_sw320dp">20dp</dimen>
+    <dimen name="dp_30_in_sw320dp">30dp</dimen>
+    <dimen name="dp_35_in_sw320dp">35dp</dimen>
+    <dimen name="dp_50_in_sw320dp">50dp</dimen>
+    <dimen name="dp_70_in_sw320dp">70dp</dimen>
+    <dimen name="dp_100_in_sw320dp">100dp</dimen>
+    <dimen name="dp_150_in_sw320dp">150dp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_splash_title">25sp</dimen>
+    <dimen name="text_size_splash_image">200dp</dimen>
+
+</resources>

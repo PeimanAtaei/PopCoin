@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PopCoin</string>
+    <string name="splash_title_pop">POP</string>
+    <string name="splash_title_coin">COIN</string>
+    <string name="splash_developer">Peiman Ataei</string>
+    <string name="splash_data">April 2025</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_column_symbol">Symbol</string>
+    <string name="list_column_name">Name</string>
+    <string name="list_column_price">Price(€)</string>
+    <string name="list_column_high24">⬆️ 24(€)</string>
+    <string name="list_column_low24">⬇️ 24(€)</string>
+
+</resources>
